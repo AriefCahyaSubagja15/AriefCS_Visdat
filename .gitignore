@@ -1,0 +1,12 @@
+# Rahasia
+.env
+.streamlit/secrets.toml
+
+# Dataset mentah (diunduh dari Kaggle, ukurannya besar)
+data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
