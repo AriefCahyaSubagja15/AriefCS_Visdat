@@ -11,10 +11,10 @@ Tugas Mandiri Terstruktur, Mata Kuliah **Visualisasi Data dan Informasi**, Progr
 
 | Keterangan | URL |
 |---|---|
-| Live Web App | http://192.168.1.9:8501/ |
-| Repositori GitHub | `ISI_URL_REPO_DI_SIhttps://github.com/AriefCahyaSubagja15/AriefCS_Visdat.gitNI |
+| Live Web App | https://olist-visdat-arief.streamlit.app/ |
+| Repositori GitHub | https://github.com/AriefCahyaSubagja15/AriefCS_Visdat |
 | Sumber data asli (Kaggle) | https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce |
-| Referensi kode/proyek | Lihat bagian [Referensi Kode](#referensi-kode) |
+| Referensi kode/proyek | https://github.com/pauloreis-ds/olist-database-postgresql |
 
 ## Deskripsi
 
@@ -124,10 +124,11 @@ Aplikasi di-deploy ke Streamlit Community Cloud. Kredensial PostgreSQL disimpan 
 
 ## Referensi Kode
 
-Daftar repositori/dokumentasi yang dipelajari atau diadaptasi (ISI sesuai yang benar-benar dirujuk):
+**Repositori publik yang dipelajari:**
+- olist-database-postgresql (pauloreis-ds) - https://github.com/pauloreis-ds/olist-database-postgresql
+  Dipelajari sebagai contoh penggunaan dataset Olist pada database PostgreSQL.
 
-- `ISI_URL_REFERENSI_1`: keterangan teknik yang dipelajari
-- `ISI_URL_REFERENSI_2`: keterangan teknik yang dipelajari
-- Dokumentasi Streamlit: https://docs.streamlit.io
-- Dokumentasi Plotly Express: https://plotly.com/python/plotly-express/
-- Dokumentasi SQLAlchemy: https://docs.sqlalchemy.org
+**Dokumentasi yang dirujuk:**
+- Streamlit: https://docs.streamlit.io
+- Plotly Express: https://plotly.com/python/plotly-express/
+- SQLAlchemy: https://docs.sqlalchemy.org
